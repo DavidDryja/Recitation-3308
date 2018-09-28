@@ -1,3 +1,3 @@
-David Dryja -- EDIT ON FILE
+David Dryja
 Lab 4
 Partner - Julius Henkin
